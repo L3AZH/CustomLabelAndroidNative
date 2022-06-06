@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomLabel">
+        <attr name="textColor" format="color"/>
+        <attr name="shapeColor" format="color"/>
+    </declare-styleable>
+</resources>
